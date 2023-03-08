@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<name>Vladynyr</name>
+	<last_name>Shabanov</last_name>
+	<ege>40</ege>
+	<cat>
+		<name>Murchik</name>
+		<ege>4</ege>
+	</cat>
+	<salary>15000_euro</salary>
+</root>
