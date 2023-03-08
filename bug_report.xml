@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+<Enviroment>Windows 10 (Google Chrome)</Enviroment>
+<Title>You can enter spaces in the 'Password' field and register successfully</Title>
+<STR>
+<step>1) Go to registration window;</step>
+<step>2) In the 'Email address' field, enter a valid mail;</step>
+<step>3) In the 'Password' field, enter ' Bla1!';</step>
+<step>4) Click on the button 'Continue'</step>
+</STR>
+<Expected_Result>Notification: registration error - 'Password' field</Expected_Result>
+<Actual_Result>Registration - completed successfully</Actual_Result>
+</bug_report>
